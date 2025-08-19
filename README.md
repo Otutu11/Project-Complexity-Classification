@@ -71,11 +71,8 @@ python project_complexity_classifier.py
 
     This is a demo project and can be extended with real project datasets.
 
-📬 Contact
+📬 Contact me
+Github: https://github.com/Otutu11
+Name: Otutu Anslem
 
-Feel free to reach out if you'd like to contribute or customize this further!
 
-
----
-
-Let me know if you want me to save this as a `README.md` file or customize it further with your name, GitHub li
